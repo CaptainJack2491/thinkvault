@@ -1,3 +1,11 @@
+# temp files
+transcripts/
+embeddings/
+summaries/
+
+# obsidian vault
+.obsidian/
+
 # tf models
 *.h5
 *.keras
